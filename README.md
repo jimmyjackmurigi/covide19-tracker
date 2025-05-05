@@ -30,5 +30,5 @@ This project analyzes and visualizes global COVID-19 trends including total case
 ---
 
 ## 👨‍💻 Author
-Your Name (JIMMY)
+(JIMMY)
 
